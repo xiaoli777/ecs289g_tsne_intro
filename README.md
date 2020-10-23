@@ -1,1 +1,1 @@
-# ecs289g_tsne_intro
+# ecs289g_tsne
